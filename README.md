@@ -16,8 +16,8 @@
 
 ---
 
-[![LinkedIn](https://www.linkedin.com/in/md-fahim-alam-3168b2397/)
-[![GitHub](https://github.com/fahim202342)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-fahim-alam-3168b2397/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahim202342)
 
 </div>
 
@@ -25,119 +25,149 @@
 
 ## 👨‍💻 About Me
 
-<div align="left">
+I am a Computer Science and Engineering student passionate about Artificial Intelligence, Machine Learning, and Deep Learning.
 
-I am a Computer Science and Engineering student passionate about Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy transforming data into intelligent solutions and building AI systems that solve real-world challenges.
+I enjoy building intelligent systems that transform data into meaningful solutions. My interests include Computer Vision, Generative AI, and developing practical AI applications that solve real-world problems.
 
-My focus areas include Machine Learning, Computer Vision, Generative AI, and Retrieval-Augmented Generation (RAG). I have hands-on experience developing deep learning models, training computer vision systems, and creating AI-powered applications.
+**What I work with:**
 
-**What I bring to the table:**
+- 🤖 Machine Learning & Deep Learning
+- 🧠 CNN, Transfer Learning, and Computer Vision
+- 🚦 YOLO-based Object Detection Systems
+- 🔥 TensorFlow, Keras, PyTorch, OpenCV
+- 💬 Generative AI, RAG, LangChain & LLM Applications
+- 🌐 AI Application Development with Django & FastAPI
 
-- 🤖 Strong foundation in Machine Learning & Deep Learning
-- 🧠 Experience with CNN, Transfer Learning, YOLO, and Computer Vision
-- 🐍 Proficient in Python and AI/ML libraries
-- 🔥 Experience with TensorFlow, Keras, PyTorch, and OpenCV
-- 📚 Exploring Generative AI, RAG, LangChain, and LLM applications
-- 🚀 Passionate about building practical AI solutions
-
-*Always learning, experimenting, and building the future with AI.*
-
-</div>
+*Always learning, experimenting, and building with AI.*
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🛠️ Tech Stack & Tools
 
-### Programming Languages
+## Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
----
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Machine Learning & Deep Learning
+
+## Machine Learning & Deep Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+
+## Data Science
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+
+## Computer Vision & AI
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
----
+![YOLO](https://img.shields.io/badge/YOLO-Object%20Detection-black?style=for-the-badge)
 
-### AI & Computer Vision
-
-![YOLO](https://img.shields.io/badge/YOLO-Computer%20Vision-111111?style=for-the-badge)
 ![CNN](https://img.shields.io/badge/CNN-Deep%20Learning-blue?style=for-the-badge)
+
+
+## Generative AI & RAG
+
 ![LangChain](https://img.shields.io/badge/LangChain-Generative%20AI-green?style=for-the-badge)
 
----
+![Vector Database](https://img.shields.io/badge/Vector%20Database-RAG-purple?style=for-the-badge)
 
-### Web Development & Deployment
+![LLM](https://img.shields.io/badge/LLM-AI-orange?style=for-the-badge)
+
+
+## Backend & Deployment
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🚀 Featured Projects
-
-### 🤖 AI & Machine Learning Projects
-
-- 🧠 **Face Emotion Recognition System**
-  - CNN-based deep learning model for emotion classification.
-
-- 🚦 **Traffic Sign Recognition**
-  - Deep learning based image classification using transfer learning.
-
-- 📦 **Container Detection System**
-  - YOLO-based object detection system for real-time detection.
-
-- 💬 **RAG AI Chatbot**
-  - Retrieval-Augmented Generation chatbot using LangChain and vector databases.
 
 ---
 
-## 🌱 Currently Learning
+# 🚀 Featured Projects
 
-- Generative AI & Large Language Models (LLMs)
+## 🚦 Traffic Sign Recognition
+Deep learning based traffic sign classification system using CNN and transfer learning.
+
+## 😀 Face Emotion Recognition
+CNN-based facial emotion recognition system trained on emotion datasets.
+
+## 📦 Container Detection System
+Real-time object detection system using YOLO for container detection.
+
+## 💬 RAG AI Chatbot
+AI chatbot using Retrieval-Augmented Generation with LangChain and vector databases.
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Deep Learning
+- Generative AI & LLM Applications
 - Retrieval-Augmented Generation (RAG)
-- MLOps & Model Deployment
-- Advanced Deep Learning Techniques
+- MLOps & AI Model Deployment
+- Cloud-based AI Solutions
+
 
 ---
 
-## 💼 Looking For
-
-AI/ML Internship | Junior Machine Learning Engineer | Computer Vision Engineer Opportunities
-
----
-
-## 📊 GitHub Stats
+# 💼 Open To Opportunities
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+AI/ML Internship | Machine Learning Engineer | Computer Vision Engineer
 
 </div>
 
+
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats
 
-📧 Email: YOUR_EMAIL  
-💼 LinkedIn: YOUR_LINKEDIN  
-🌐 Portfolio: YOUR_PORTFOLIO
+<div align="center">
+
+![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahim202342&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fahim202342&theme=tokyonight)
+
+</div>
+
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-fahim-alam-3168b2397/)
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahim202342)
+
+</div>
+
 
 ---
 
