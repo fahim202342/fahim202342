@@ -2,7 +2,7 @@
 
 # Hi, I'm Md Fahim Alam 👋
 
-### AI/ML Engineer | LLM & GenAI Developer | Computer Vision Specialist
+### AI/ML Engineer | LLM & GenAI Developer | Computer Vision
 
 *Building production-grade AI systems — from RAG pipelines and multi-agent architectures to real-time computer vision — that turn data into real-world impact*
 
